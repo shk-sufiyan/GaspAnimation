@@ -1,0 +1,19 @@
+.animation_section{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+}
+
+.animation_section h1{
+  font-size: 5vw;
+}
+.animation_section p{
+  padding-top: 1rem;
+  font-size: 2vw;
+}
+.third_scroll_section{
+  background-color: black;
+}
